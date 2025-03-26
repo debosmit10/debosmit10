@@ -8,7 +8,7 @@
 
 🔰 GitHub Newbie<br>
 🎓 Pursuing BCA<br>
-🔭 Working on a Dynamic Web Project<br>
+🔭 Working on a Full Stack Web Project<br>
 🌱 Learning Web Dev
 
 
